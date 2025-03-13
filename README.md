@@ -1,0 +1,1 @@
+classificação de imagens em IA vs NOT IA com convolutional neural networks com tensorflow
